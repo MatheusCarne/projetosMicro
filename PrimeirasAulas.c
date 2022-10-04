@@ -28,9 +28,5 @@ int main(void)
 		atraso(1000000);
 	}
 
-
-
-
-
 	for(;;);
 }
